@@ -19,7 +19,7 @@
 
 aside {
   grid-row: 2/5;
-  background-image: url(./dragon_side.png);
+  background-image: url(img/dragon_side.png);
 }
 
 .logo,
@@ -36,7 +36,7 @@ header,
 main,
 nav,
 footer {
-  background-image: url(./background.jpg);
+  background-image: url(img/background.jpg);
 }
 
 h1,
